@@ -1,1 +1,4 @@
-gradio\nnetworkx\npandas\nplotly\n
+gradio
+networkx
+pandas
+plotly
